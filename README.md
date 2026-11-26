@@ -10,11 +10,14 @@ Built across **609 closed recruitment campaigns (2024–2026)** covering **€9.
 
 ## 🖼️ Dashboard Preview
 
-> 💡 *Export screenshots of your three report pages into an `assets/` folder in your repository to display them below.*
+### 💰 Page 1: Spend & Channel Efficiency
+<img width="100%" alt="Spend & Channel Efficiency (Cost vs. Volume)" src="https://github.com/user-attachments/assets/d935a42e-5497-4f1f-96bd-a25cdf1af764" />
 
-| 💰 Page 1: Spend & Channel Efficiency | 🔍 Page 2: Candidate Quality & Funnel | 🏆 Page 3: Long-Term Value (90d/180d ROI) |
-| :---: | :---: | :---: |
-| ![Spend & Channel Efficiency](assets/page1_spend_efficiency.png) | ![Candidate Quality & Funnel](assets/page2_funnel_quality.png) | ![Long-Term Hiring Value](assets/page3_long_term_value.png) |
+### 🔍 Page 2: Candidate Quality & Funnel Drop-off
+<img width="100%" alt="Candidate Quality & Funnel Drop-off" src="https://github.com/user-attachments/assets/f5e1fe5a-eadc-458b-b255-8cb8021d1be9" />
+
+### 🏆 Page 3: Long-Term Hiring Value (90d/180d ROI)
+<img width="100%" alt="Long-Term Hiring Value (Probation, Retention & ROI)" src="https://github.com/user-attachments/assets/a8e36ce0-ee21-439b-947c-21252c39ec0a" />
 
 ---
 
